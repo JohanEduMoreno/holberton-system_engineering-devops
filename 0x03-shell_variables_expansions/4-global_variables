@@ -1,2 +1,2 @@
-#!/bin/baoih
+#!/bin/baoh
 echo $PATH | tr ":" "\n" | wc -l
