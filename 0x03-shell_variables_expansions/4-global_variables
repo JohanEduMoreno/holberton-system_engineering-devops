@@ -1,0 +1,2 @@
+#!/bin/baoih
+echo $PATH | tr ":" "\n" | wc -l
